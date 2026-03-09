@@ -55,6 +55,9 @@ Interactive slicers to filter and explore the data
 
 These visuals allow users to quickly identify key sales insights and trends.
 
+![Dashboard Screenshot](powerbiretail.jpg)
+
+
 Key Insights
 
 Key findings from the analysis include:
