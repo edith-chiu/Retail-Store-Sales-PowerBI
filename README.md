@@ -1,13 +1,13 @@
 # PowerBI-Project-Retail-Store-Sales
 
-Retail Store Sales Analysis (Power BI)
-Project Overview
+## Retail Store Sales Analysis (Power BI)
+## Project Overview
 
 This project analyses retail sales data from an electronics store for Q1 2025. The objective was to build an interactive Power BI dashboard to monitor sales performance, identify top-performing products, and highlight key business trends.
 
 The dashboard enables quick exploration of revenue, product performance, and store-level sales to support data-driven decision-making.
 
-Business Questions
+## Business Questions
 
 The analysis focuses on answering the following key questions:
 
@@ -21,7 +21,7 @@ What are the top 3 best-selling products by units sold?
 
 How did total revenue change across the three months?
 
-Dataset
+## Dataset
 
 The dataset contains retail sales data for an electronics store, including:
 
@@ -37,7 +37,7 @@ Revenue generated
 
 This dataset was used to evaluate sales performance across different products and stores.
 
-Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard includes several visualisations designed to answer the business questions:
 
@@ -58,7 +58,7 @@ These visuals allow users to quickly identify key sales insights and trends.
 ![Dashboard Screenshot](powerbiretail.jpg)
 
 
-Key Insights
+## Key Insights
 
 Key findings from the analysis include:
 
@@ -70,7 +70,7 @@ Sales performance varies across store locations.
 
 Revenue trends across the quarter provide insights into monthly sales performance.
 
-Tools Used
+## Tools Used
 
 Power BI
 
@@ -80,7 +80,7 @@ Basic data modelling
 
 Business performance analysis
 
-Skills Demonstrated
+## Skills Demonstrated
 
 Power BI dashboard development
 
