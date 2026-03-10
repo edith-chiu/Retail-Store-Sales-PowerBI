@@ -70,6 +70,18 @@ Sales performance varies across store locations.
 
 Revenue trends across the quarter provide insights into monthly sales performance.
 
+
+## Business Recommendations
+
+The analysis highlights several opportunities to improve retail performance:
+
+• High-performing product categories could be prioritised for promotions and inventory allocation.
+
+• Stores with lower sales performance may require targeted marketing or local promotions.
+
+• Monitoring monthly revenue trends can help identify seasonal patterns and improve sales forecasting.
+
+
 ## Tools Used
 
 Power BI
